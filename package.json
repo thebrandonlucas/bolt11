@@ -1,5 +1,5 @@
 {
-  "name": "bolt11",
+  "name": "bolt11-signet",
   "version": "1.4.1",
   "description": "A library for encoding and decoding lightning network payment requests as defined in [BOLT #11](https://github.com/lightningnetwork/lightning-rfc/blob/master/11-payment-encoding.md).",
   "main": "payreq.js",
@@ -25,6 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/thebrandonlucas/bolt11.git"
   },
+  "bolt11": "https://github.com/thebrandonlucas/bolt11/tarball/8a258f784daa4454fc1dc08174d420c26223ae0b",
   "keywords": [
     "invoice",
     "payment",
