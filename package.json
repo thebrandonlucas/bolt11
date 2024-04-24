@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitcoinjs/bolt11.git"
+    "url": "git+https://github.com/thebrandonlucas/bolt11.git"
   },
   "keywords": [
     "invoice",
@@ -37,9 +37,9 @@
   "author": "Jonathan Underwood",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitcoinjs/bolt11/issues"
+    "url": "https://github.com/thebrandonlucas/bolt11/issues"
   },
-  "homepage": "https://github.com/bitcoinjs/bolt11#readme",
+  "homepage": "https://github.com/thebrandonlucas/bolt11#readme",
   "dependencies": {
     "@types/bn.js": "^4.11.3",
     "bech32": "^1.1.2",
